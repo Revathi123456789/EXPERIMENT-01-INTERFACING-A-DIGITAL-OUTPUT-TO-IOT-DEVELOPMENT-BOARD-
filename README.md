@@ -3,9 +3,6 @@
 ###  NAME: REVATHI K
 ###  ROLL NO : 212223040169
 ###  DEPARTMENT: CSE
-
-
-
 # EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD
 
 ## Aim: To Interface a Digital output (LED) to ARM IOT development board and write a  program to blink an led 
@@ -98,11 +95,6 @@ The main features of LPC2148 include the following.
 }
 
 ```
-
-
-
-
-
 ## OUTPUT  :
 
  ![Screenshot (39)](https://github.com/user-attachments/assets/49f93569-7179-4cec-8b5c-3aeac8dd7d33)
